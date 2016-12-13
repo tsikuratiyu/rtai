@@ -1,0 +1,1 @@
+cmd_/home/rtai/Descargas/ejercicios/example.ko := ld -r -m elf_x86_64 -T /usr/src/linux-3.10.32/scripts/module-common.lds --build-id  -o /home/rtai/Descargas/ejercicios/example.ko /home/rtai/Descargas/ejercicios/example.o /home/rtai/Descargas/ejercicios/example.mod.o

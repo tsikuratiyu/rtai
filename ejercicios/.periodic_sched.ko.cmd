@@ -1,0 +1,1 @@
+cmd_/home/rtai/Descargas/ejercicios/periodic_sched.ko := ld -r -m elf_x86_64 -T /usr/src/linux-3.10.32/scripts/module-common.lds --build-id  -o /home/rtai/Descargas/ejercicios/periodic_sched.ko /home/rtai/Descargas/ejercicios/periodic_sched.o /home/rtai/Descargas/ejercicios/periodic_sched.mod.o
